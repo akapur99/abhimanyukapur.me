@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 node_modules
+=======
+dist
+node_modules
+yarn-error.log
+.DS_Store
+>>>>>>> 108a277d003f40545785b85122a97ef9f536762a
